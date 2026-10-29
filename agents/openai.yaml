@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频提示词"
+  short_description: "将创意或文学片段转为中文视频提示词，设计整片表达、分镜动作与声音，并按容量分段"
+  default_prompt: "使用 $video-prompts-skills 将我的创意或文学片段转为完整中文视频提示词，先确认类型，再设计整片表达，并按约15秒容量逐段交付。"
