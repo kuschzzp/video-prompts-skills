@@ -151,6 +151,9 @@ video-prompts-skills/
 │   ├── visual-continuity.md           # 可读性、空间与连续性
 │   ├── action-and-assets.md           # 动作逻辑与参考素材
 │   ├── shot-and-sound-design.md       # 时间预算、分段与声音
+│   ├── lighting-and-color.md          # 光影、色温与调色板
+│   ├── object-and-reversal.md         # 以物件为先、意义翻转
+│   ├── movement-and-checklist.md      # 运镜决策与交稿前自查
 │   ├── minimax-h3.md                  # MiniMax H3 适配
 │   ├── seedance-2.5.md                # Seedance 2.5 适配
 │   └── result-diagnosis.md            # 成片诊断与修订
@@ -163,6 +166,13 @@ video-prompts-skills/
 ├── README.md
 └── LICENSE
 ```
+
+## 新增参考
+
+- [光影与色彩](./references/lighting-and-color.md)：光源、方向、软硬、色温对照、时段与调色板，以及光如何承载意义。
+- [以物件为先](./references/object-and-reversal.md)：一个日常物件先行、问句开场、三拍、两种对立解读、一句金句、留白结尾；含原创练习《7:42》填表示范。
+- [运镜决策与自查](./references/movement-and-checklist.md)：每镜只一个运镜的决策表，及交稿前自查清单。
+- Seedance 2.5 适配已修订：15 秒交付预算与单次生成上限的区别、16:9 与 9:16 的选择、负向写法；新增能力数字于 2026-11-14 对官方模型页与 ModelArk 教程复核（单次 4–30 秒、480p / 720p / 1080p、24fps、可延长两次），消费端入口档位仍以实际入口为准。
 
 ## 手动验证与反馈
 
